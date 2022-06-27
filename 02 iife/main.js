@@ -1,8 +1,6 @@
 let a = 1
 let b = 2
 
-console.log(`a`, myMaths)
-
 const root = document.querySelector('#root')
 
 root
