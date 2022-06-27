@@ -1,4 +1,8 @@
-const myMaths = moduleExcerciseWebpack
+// 01: Webpack UMD
+// const myMaths = moduleExcerciseWebpack
+
+// 02: Rollup UMD
+const myMaths = rollupModule
 
 const root = document.querySelector('#root')
 
