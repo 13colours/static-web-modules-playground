@@ -2,7 +2,10 @@
 // const myMaths = moduleExcerciseWebpack
 
 // 02: Rollup UMD
-const myMaths = rollupModule
+// const myMaths = rollupModule
+
+// 03: Vite UMD
+const myMaths = myModule
 
 const root = document.querySelector('#root')
 
